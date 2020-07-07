@@ -1,0 +1,34 @@
+body {
+        background-color: lightgrey;
+		
+    }
+	
+	
+    p {
+        color: black ;
+        font-family: Arial, Helvetica;
+		font-weight: normal;
+        text-align: justify;
+		margin:5px;
+		padding:0;
+    }
+
+    img {
+        margin: auto;
+        display: block;
+        }
+
+    h1,
+    h2
+     {
+        color: navy ;
+        text-align: center;
+    }
+	
+	h3,
+	h4,
+	h5{
+		margin:5px;
+	
+	}
+		
